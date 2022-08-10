@@ -5,7 +5,7 @@ A mini voting system using C Language <br>
 ![image](image.png)
 
 ## Live Link
-Click Here To View Live on [Replit](https://replit.com/@MusfiqDehan/Voting-System?embed=true)
+Click Here To View Live [![Run on Repl.it](https://repl.it/badge/github/plibither8/2048.cpp)](https://replit.com/@MusfiqDehan/Voting-System?embed=true)
 
 ## Features
 1. Allows us to set up a flexible and trustworthy voting system
